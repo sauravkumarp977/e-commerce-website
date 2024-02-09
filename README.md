@@ -21,6 +21,8 @@ After that the user will get a payment form validation page where the user can f
 And there is a search option through which the user can search by typing the product name or letter and the search bar will filter all the products matches to the product names or letters that has been typed on search bar.
 ![js7](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/904e6d0d-d6eb-44d5-bfcb-3d86d6793d54)
 
-There are some of pictures of my web app right bellow:
+There is a short video of my web app right bellow:
 
-![js3](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/e668307a-9423-46ba-8349-be9b66dbbe2d)
+https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/c63e9bbb-1131-47fc-9219-628dfc932f3f
+
+
