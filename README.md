@@ -1,28 +1,57 @@
-# e-commerce-website
-This is a fully responsive web app developed using techs like HTML, SCSS, JavaScript, React.js, Strapi CMS & Stripe.
-![js1](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/d170e104-3e67-47fe-8fe8-eae146608016)
-![js2](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/0b20a9b4-bd80-4137-ae25-8220efc4745d)
-![js3](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/e668307a-9423-46ba-8349-be9b66dbbe2d)
-![js9](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/6c573d9a-84f2-4536-ac82-46de32ae4853)
+# 🚀 Getting started with Strapi
 
-I have added some basic features in this web app like selecting on any product would take the user to a page where it gonna show the user how many of that product he/she can buy,
-by increasing or decreasing the number.
-![js4](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/03a884c8-0b64-4d05-9cc3-c90317563d60)
+Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
 
-The bellow part of that page will show the related products of the product that the user has selected before.
-![js5](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/38017874-278e-4f80-baf3-1ad4774b73af)
+### `develop`
 
-And then on tapping the 'Add to cart' button will show the user a right bar where the user can see the total price according to the quantity that user increased or decreased and can buy the product by tapping on 'checkout' button.
-![js6](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/7ca7d627-78a6-489f-b24c-e16edf87e56d)
+Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-develop)
 
-After that the user will get a payment form validation page where the user can fill the details and can buy the product successfully.
-![js8](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/17cb744f-ed5f-492a-8659-2636eab9e6be)
+```
+npm run develop
+# or
+yarn develop
+```
 
-And there is a search option through which the user can search by typing the product name or letter and the search bar will filter all the products matches to the product names or letters that has been typed on search bar.
-![js7](https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/904e6d0d-d6eb-44d5-bfcb-3d86d6793d54)
+### `start`
 
-There is a short video of my web app right bellow:
+Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-start)
 
-https://github.com/sauravkumarp977/e-commerce-website/assets/146400930/c63e9bbb-1131-47fc-9219-628dfc932f3f
+```
+npm run start
+# or
+yarn start
+```
 
+### `build`
 
+Build your admin panel. [Learn more](https://docs.strapi.io/dev-docs/cli#strapi-build)
+
+```
+npm run build
+# or
+yarn build
+```
+
+## ⚙️ Deployment
+
+Strapi gives you many possible deployment options for your project including [Strapi Cloud](https://cloud.strapi.io). Browse the [deployment section of the documentation](https://docs.strapi.io/dev-docs/deployment) to find the best solution for your use case.
+
+## 📚 Learn more
+
+- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
+- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
+- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
+- [Strapi blog](https://strapi.io/blog) - Official Strapi blog containing articles made by the Strapi team and the community.
+- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
+
+Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
+
+## ✨ Community
+
+- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
+- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
+- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
+
+---
+
+<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
